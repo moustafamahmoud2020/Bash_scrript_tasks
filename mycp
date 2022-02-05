@@ -1,0 +1,3 @@
+#!/bin/bash
+cp *.sh /home/mostafa/Desktop/testcopy/newcopy
+cp s1.sh /home/mostafa/Desktop/testcopy/newcopy/s3.sh
