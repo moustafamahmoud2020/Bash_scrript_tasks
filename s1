@@ -1,0 +1,3 @@
+#!/bin/bash
+x=5
+eval "./s2.sh ${x}"
