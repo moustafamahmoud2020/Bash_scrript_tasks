@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+#this script to greeting names
+echo "please enter your name"
+read $name
+echo "hello $name"
